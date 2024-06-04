@@ -19,11 +19,11 @@ class Solution {
                 len+=count;
             }else{
                 len += count-1;
-                maxOdd = Math.max(maxOdd, count);
+                maxOdd = 1;
                 
             }
         }
-        return len+(maxOdd > 0 ? 1 : 0);
+        return len+maxOdd;
 
 
         
