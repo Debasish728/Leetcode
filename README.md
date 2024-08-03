@@ -101,13 +101,19 @@
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/Debasish728/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Debasish728/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Debasish728/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2727-number-of-senior-citizens](https://github.com/Debasish728/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
 |  |
 | ------- |
 | [1333-sort-the-jumbled-numbers](https://github.com/Debasish728/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Debasish728/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## String
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/Debasish728/Leetcode/tree/master/2727-number-of-senior-citizens) |
+## Hash Table
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Debasish728/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->
