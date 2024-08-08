@@ -99,6 +99,7 @@
 ## Array
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Debasish728/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1293-three-consecutive-odds](https://github.com/Debasish728/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Debasish728/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Debasish728/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -140,4 +141,12 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Debasish728/Leetcode/tree/master/0273-integer-to-english-words) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/Debasish728/Leetcode/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/Debasish728/Leetcode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
