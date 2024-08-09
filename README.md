@@ -99,6 +99,7 @@
 ## Array
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Debasish728/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Debasish728/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1293-three-consecutive-odds](https://github.com/Debasish728/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Debasish728/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -121,6 +122,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Debasish728/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Debasish728/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Debasish728/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debasish728/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Debasish728/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/Debasish728/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +147,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Debasish728/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Debasish728/Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
