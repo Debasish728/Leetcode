@@ -101,6 +101,7 @@
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debasish728/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Debasish728/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/Debasish728/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Debasish728/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1293-three-consecutive-odds](https://github.com/Debasish728/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Debasish728/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -136,6 +137,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Debasish728/Leetcode/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debasish728/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
