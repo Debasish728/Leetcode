@@ -169,6 +169,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Debasish728/Leetcode/tree/master/0278-first-bad-version) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debasish728/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Dynamic Programming
 |  |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Debasish728/Leetcode/tree/master/0264-ugly-number-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Debasish728/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
