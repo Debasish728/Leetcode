@@ -99,6 +99,7 @@
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Debasish728/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Debasish728/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debasish728/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Debasish728/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -134,6 +135,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Debasish728/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Debasish728/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Debasish728/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Debasish728/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/Debasish728/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Debasish728/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
