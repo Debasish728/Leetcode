@@ -130,6 +130,7 @@
 | [0273-integer-to-english-words](https://github.com/Debasish728/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0812-rotate-string](https://github.com/Debasish728/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Debasish728/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Debasish728/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Debasish728/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2580-circular-sentence](https://github.com/Debasish728/Leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/Debasish728/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debasish728/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debasish728/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Debasish728/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Debasish728/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Binary Search
 |  |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Debasish728/Leetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Debasish728/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Bit Manipulation
 |  |
 | ------- |
