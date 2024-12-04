@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Debasish728/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/Debasish728/Leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/Debasish728/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Debasish728/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Debasish728/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -188,6 +189,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Debasish728/Leetcode/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debasish728/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debasish728/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Debasish728/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Debasish728/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/Debasish728/Leetcode/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/Debasish728/Leetcode/tree/master/0650-2-keys-keyboard) |
 ## Heap (Priority Queue)
 |  |
