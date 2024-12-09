@@ -105,6 +105,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Debasish728/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Debasish728/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Debasish728/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1127-last-stone-weight](https://github.com/Debasish728/Leetcode/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/Debasish728/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Debasish728/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debasish728/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Debasish728/Leetcode/tree/master/0264-ugly-number-ii) |
+| [1127-last-stone-weight](https://github.com/Debasish728/Leetcode/tree/master/1127-last-stone-weight) |
 | [2164-two-best-non-overlapping-events](https://github.com/Debasish728/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Interactive
 |  |
