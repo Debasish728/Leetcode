@@ -121,6 +121,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Debasish728/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Debasish728/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/Debasish728/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2868-continuous-subarrays](https://github.com/Debasish728/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Debasish728/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/Debasish728/Leetcode/tree/master/3427-special-array-ii) |
 ## Sorting
@@ -253,6 +254,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Debasish728/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Debasish728/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Debasish728/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Debasish728/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Interactive
 |  |
 | ------- |
@@ -314,10 +316,23 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Debasish728/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Debasish728/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/Debasish728/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2868-continuous-subarrays](https://github.com/Debasish728/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Debasish728/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Debasish728/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Debasish728/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Debasish728/Leetcode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Debasish728/Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Debasish728/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
