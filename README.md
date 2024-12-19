@@ -102,6 +102,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Debasish728/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Debasish728/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debasish728/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Debasish728/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0870-magic-squares-in-grid](https://github.com/Debasish728/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Debasish728/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Debasish728/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debasish728/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Debasish728/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Debasish728/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debasish728/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Debasish728/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Debasish728/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Debasish728/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Debasish728/Leetcode/tree/master/0890-lemonade-change) |
 | [1917-maximum-average-pass-ratio](https://github.com/Debasish728/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Debasish728/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -278,6 +281,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Debasish728/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Debasish728/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Debasish728/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debasish728/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Debasish728/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Tree
@@ -337,6 +341,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Debasish728/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debasish728/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Debasish728/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
