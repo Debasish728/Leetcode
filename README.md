@@ -102,6 +102,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Debasish728/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0494-target-sum](https://github.com/Debasish728/Leetcode/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Debasish728/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Debasish728/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debasish728/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Debasish728/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0870-magic-squares-in-grid](https://github.com/Debasish728/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -262,6 +263,7 @@
 | [0392-is-subsequence](https://github.com/Debasish728/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Debasish728/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Debasish728/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Debasish728/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Debasish728/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
