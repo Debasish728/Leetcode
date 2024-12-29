@@ -115,6 +115,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Debasish728/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debasish728/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Debasish728/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Debasish728/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Debasish728/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Debasish728/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/Debasish728/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -155,6 +156,7 @@
 | [0812-rotate-string](https://github.com/Debasish728/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Debasish728/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Debasish728/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Debasish728/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Debasish728/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Debasish728/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Debasish728/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -264,6 +266,7 @@
 | [0494-target-sum](https://github.com/Debasish728/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Debasish728/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Debasish728/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Debasish728/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Debasish728/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
