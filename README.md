@@ -108,6 +108,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Debasish728/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Debasish728/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Debasish728/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1025-minimum-cost-for-tickets](https://github.com/Debasish728/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1127-last-stone-weight](https://github.com/Debasish728/Leetcode/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/Debasish728/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Debasish728/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -266,6 +267,7 @@
 | [0494-target-sum](https://github.com/Debasish728/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Debasish728/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Debasish728/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/Debasish728/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Debasish728/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Debasish728/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Debasish728/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
