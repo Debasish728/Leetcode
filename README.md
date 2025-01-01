@@ -156,6 +156,7 @@
 | [0793-swap-adjacent-in-lr-string](https://github.com/Debasish728/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/Debasish728/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Debasish728/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Debasish728/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Debasish728/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Debasish728/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Debasish728/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -355,6 +356,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Debasish728/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/Debasish728/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [3427-special-array-ii](https://github.com/Debasish728/Leetcode/tree/master/3427-special-array-ii) |
 ## Sliding Window
