@@ -126,6 +126,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Debasish728/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Debasish728/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Debasish728/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Debasish728/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Debasish728/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Debasish728/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Debasish728/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -167,6 +168,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Debasish728/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Debasish728/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Debasish728/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/Debasish728/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Debasish728/Leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Debasish728/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Debasish728/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -368,6 +370,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Debasish728/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Debasish728/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Debasish728/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Debasish728/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Debasish728/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Debasish728/Leetcode/tree/master/3427-special-array-ii) |
 ## Sliding Window
