@@ -136,6 +136,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Debasish728/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2868-continuous-subarrays](https://github.com/Debasish728/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debasish728/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3194-find-words-containing-character](https://github.com/Debasish728/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Debasish728/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Debasish728/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Debasish728/Leetcode/tree/master/3427-special-array-ii) |
@@ -180,6 +181,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Debasish728/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Debasish728/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Debasish728/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/Debasish728/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Debasish728/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Debasish728/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debasish728/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
