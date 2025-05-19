@@ -442,6 +442,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Debasish728/Leetcode/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Debasish728/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Debasish728/Leetcode/tree/master/0595-big-countries) |
 | [1827-invalid-tweets](https://github.com/Debasish728/Leetcode/tree/master/1827-invalid-tweets) |
