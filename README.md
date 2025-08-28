@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Debasish728/Leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Debasish728/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Debasish728/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0494-target-sum](https://github.com/Debasish728/Leetcode/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Debasish728/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -281,6 +282,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Debasish728/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Debasish728/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Debasish728/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Debasish728/Leetcode/tree/master/0494-target-sum) |
