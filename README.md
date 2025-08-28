@@ -99,6 +99,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Debasish728/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Debasish728/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0494-target-sum](https://github.com/Debasish728/Leetcode/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Debasish728/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -188,6 +189,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Debasish728/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Debasish728/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Debasish728/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/Debasish728/Leetcode/tree/master/0219-contains-duplicate-ii) |
